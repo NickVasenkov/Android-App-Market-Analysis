@@ -4,5 +4,7 @@
  
  Python-based Data Manipulation and Visualization.
  
+ Sadly, plotly iplot doesn't work on Github, so some of the visualizations are invisible here. Everything can be seen in Jupyter outside of Github.
+ 
  
  
